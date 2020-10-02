@@ -1,3 +1,5 @@
+# IN PROGRESS
+
 # Coding assignment - Food database
 
 In the context of computer vision, detection tasks with open class domains require more flexibility than flat class distinction in simple vision tasks (dog/cat classification). 
