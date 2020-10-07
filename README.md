@@ -1,4 +1,8 @@
-# IN PROGRESS
+# How work the code ? 
+
+You need to extract Database.py and TestDatabse.py. After, you just nedd to run TestDatabase.py
+
+No package is used. 
 
 # Coding assignment - Food database
 
